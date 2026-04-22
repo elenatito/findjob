@@ -1,2 +1,4 @@
 bash
 python job_assistant_full.py
+
+*Открой браузер: http://localhost:5000
