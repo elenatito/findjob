@@ -1,0 +1,6 @@
+DEEPSEEK_API_KEY = "sk-твой_ключ"
+
+# Для ежедневной рассылки (опционально)
+EMAIL_SENDER = "твоя_почта@yandex.ru"
+EMAIL_PASSWORD = "пароль_приложения"
+EMAIL_RECEIVER = "куда_отправлять@mail.ru"
