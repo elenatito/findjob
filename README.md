@@ -24,6 +24,8 @@
 ```bash
 pip install flask requests openai schedule yagmail
 
+
+
 ##🙏 Благодарности
 ###DeepSeek — доступный API
 
